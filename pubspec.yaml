@@ -1,7 +1,7 @@
 name: vertical_slider
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/dutchmanbd/vertical_slider.git
 
 environment:
   sdk: '>=2.19.3 <3.0.0'
